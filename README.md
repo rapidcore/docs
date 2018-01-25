@@ -1,4 +1,1 @@
-## Welcome to RapidCore Documentation
-
-### Contact
-Send us an [email](mailto:info@rapidcore.io)
+This repository has been merged into https://github.com/rapidcore/rapidcore
